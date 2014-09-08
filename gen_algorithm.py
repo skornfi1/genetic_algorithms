@@ -69,4 +69,9 @@ def combine(ind1,ind2):
     part_2 = ind2[comb_point:]
     return part_1+part_2
 
+"""
+#Example Case
+print evolve_player(100,3)
+
+"""
            
